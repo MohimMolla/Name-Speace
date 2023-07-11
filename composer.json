@@ -1,0 +1,8 @@
+{
+    "name": "example/package",
+    "description": "exmple",
+    "require": {
+        "bumbummen99/shoppingcart": "^4.2",
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
